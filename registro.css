@@ -1,0 +1,38 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    z-index: 1000;
+}
+
+.logo {
+    width: 350px;
+    height: auto;
+}
+
+
+.container {
+    margin-top: 120px;
+
+}
+
+.wrapper col-md-6 {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    background: transparent;
+    color: #fff;
+    border-radius: 10px;
+    padding: 40px 40px;
+    justify-content: center;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+.display {
+    line-height: 1.5;
+
+}
